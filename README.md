@@ -4,7 +4,7 @@
 * apt install && apt upgrade *
 * apt install nodejs *
 * apt install git *
-* git clone https://github.com/pallset/PeeX-RestAPI.git*
+* git clone https://github.com/pallset/PeeX-RestsAPI.git*
 * cd PeeX-RestAPI *
 * npm i *
 * node server.js *
